@@ -1,5 +1,7 @@
 # Platform 65
 
+**Live site:** [https://platform-65.vercel.app](https://platform-65.vercel.app)
+
 Website for Platform 65, a train-themed dining restaurant, built with Vite and vanilla JavaScript.
 
 ## Features
